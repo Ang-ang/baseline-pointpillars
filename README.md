@@ -1,5 +1,4 @@
 # baseline-pointpillars
-when do pointpillars configuration, need to change some files
 
 pip install fire, tensorboardX, Shapely, pybind11, protobuf, scikit-image, numba, Pillow
 
