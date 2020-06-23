@@ -1,4 +1,5 @@
 # baseline-pointpillars
+For details, please refer to https://github.com/nutonomy/second.pytorch
 
 pip install fire, tensorboardX, Shapely, pybind11, protobuf, scikit-image, numba, Pillow
 
